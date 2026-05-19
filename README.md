@@ -6,7 +6,7 @@ In parallel, **PhD candidate** at Charles University (MFF, Department of Probabi
 
 ## Selected work
 
-- *Bagging and Regression Trees in Individual Claims Reserving* — **Statistical Papers (Springer Nature), 2025**, with Michal Pešta
+- [*Bagging and Regression Trees in Individual Claims Reserving*](https://doi.org/10.1007/s00362-025-01715-9) — **Statistical Papers (Springer Nature), 66(4), 2025**, with Michal Pešta
 - *Random Forest with Pipeline Calibration for Individual Claims Reserving* — current paper. Companion code: [`rf-pipeline-calibration`](https://github.com/HeirOfIsildur/rf-pipeline-calibration)
 - **GAUK 188325** grant (Charles University Grant Agency, 2025) — *Machine Learning in Individual Claims Reserving*
 - Recent / upcoming talks: IME 2026 (Seoul), 1st ASTIN Bulletin Conference 2026 (ETH Zürich), JOCO 2025 (São Paulo), ROBUST 2024 & 2026
