@@ -1,0 +1,20 @@
+# Jan Janoušek
+
+**Quantitative Researcher** at [Oddin.gg](https://oddin.gg) (esports betting), based in Prague — modelling, implementing, and validating predictive models for esports markets in production, plus on-call support for critical model and data issues.
+
+In parallel, **PhD candidate** at Charles University (MFF, Department of Probability and Mathematical Statistics), working with Michal Pešta on **statistical and machine learning methods for individual claims reserving** in non-life insurance.
+
+## Selected work
+
+- *Bagging and Regression Trees in Individual Claims Reserving* — **Statistical Papers (Springer Nature), 2025**, with Michal Pešta
+- *Random Forest with Pipeline Calibration for Individual Claims Reserving* — current paper. Companion code: [`rf-pipeline-calibration`](https://github.com/HeirOfIsildur/rf-pipeline-calibration)
+- **GAUK 188325** grant (Charles University Grant Agency, 2025) — *Machine Learning in Individual Claims Reserving*
+- Recent / upcoming talks: IME 2026 (Seoul), 1st ASTIN Bulletin Conference 2026 (ETH Zürich), JOCO 2025 (São Paulo), ROBUST 2024 & 2026
+
+## Stack
+
+Python · Pandas · NumPy · Scikit-learn · tree-based methods (bagging, random forests, gradient boosting) · LaTeX · Git
+
+## Outside research
+
+Passionate about sports — 18 years of basketball (from professional youth league down to a low-level Prague league), padel, and currently training for an Olympic-distance triathlon.
