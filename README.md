@@ -9,7 +9,8 @@ In parallel, **PhD candidate** at Charles University (MFF, Department of Probabi
 ## Selected work
 
 - [*Bagging and Regression Trees in Individual Claims Reserving*](https://doi.org/10.1007/s00362-025-01715-9) — **Statistical Papers (Springer Nature), 66(4), 2025**, with Michal Pešta
-- *Random Forest with Pipeline Calibration for Individual Claims Reserving* — submitted paper. Companion code: [`rf-pipeline-calibration`](https://github.com/HeirOfIsildur/rf-pipeline-calibration)
+- *Random forests with pipeline calibration for RBNS and IBNR reserving* — submitted, 2026, with Michal Pešta. Companion code: [`rf-pipeline-calibration-reserving`](https://github.com/HeirOfIsildur/rf-pipeline-calibration-reserving)
+- *Balance-restoring calibration of transformed-target tree ensembles for individual claims reserving* — submitted, 2026, with Michal Pešta. Companion code: [`balance-restoring-calibration`](https://github.com/HeirOfIsildur/balance-restoring-calibration)
 - **GAUK 188325** grant (Charles University Grant Agency, 2025) — *Machine Learning in Individual Claims Reserving*
 - Recent / upcoming talks: 29th International Congress on Insurance: Mathematics and Economics 2026 (Seoul), 1st ASTIN Bulletin Conference 2026 (ETH Zürich), 2nd Joint Colloquium of IAA Sections 2025 (São Paulo)
 
@@ -19,4 +20,4 @@ Python · Pandas · NumPy · Scikit-learn · tree-based methods (bagging, random
 
 ## Outside research
 
-Passionate about sports — 18 years of basketball (from professional youth level to a hobby Prague league), padel, and currently training for an Olympic-distance triathlon.
+Passionate about sports — 18 years of basketball (from professional youth level to a hobby Prague league), padel, and Olympic-distance triathlon.
