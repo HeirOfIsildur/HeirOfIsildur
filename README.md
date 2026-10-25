@@ -24,4 +24,4 @@ In parallel, **PhD candidate** at Charles University (MFF, Department of Probabi
 
 ## Outside research
 
-Passionate about sports — 18 years of basketball (from professional youth level to a hobby Prague league) and padel — and lately I have taken up triathlon.
+Passionate about sports — 18 years of basketball (from professional youth level to a hobby Prague league) and padel; lately I have also taken up triathlon.
