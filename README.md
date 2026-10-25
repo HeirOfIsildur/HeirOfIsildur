@@ -9,14 +9,18 @@ In parallel, **PhD candidate** at Charles University (MFF, Department of Probabi
 ## Selected work
 
 - [*Bagging and Regression Trees in Individual Claims Reserving*](https://doi.org/10.1007/s00362-025-01715-9) — **Statistical Papers (Springer Nature), 66(4), 2025**, with Michal Pešta
+- *baggingReserve: Bagging and Regression Trees for Individual Claims Reserving in R* — submitted to the Journal of Statistical Software, 2026, with Michal Pešta. R package: [`baggingReserve`](https://github.com/HeirOfIsildur/baggingReserve)
 - *Random forests with pipeline calibration for RBNS and IBNR reserving* — submitted, 2026, with Michal Pešta. Companion code: [`rf-pipeline-calibration-reserving`](https://github.com/HeirOfIsildur/rf-pipeline-calibration-reserving)
 - *Balance-restoring calibration of transformed-target tree ensembles for individual claims reserving* — submitted, 2026, with Michal Pešta. Companion code: [`balance-restoring-calibration`](https://github.com/HeirOfIsildur/balance-restoring-calibration)
+- *ABS challenges: an accounting index of wins left on the table* — submitted to the Annals of Applied Statistics, 2026, with Michal Pešta. Companion code: [`abs-challenge-policy`](https://github.com/HeirOfIsildur/abs-challenge-policy)
 - **GAUK 188325** grant (Charles University Grant Agency, 2025) — *Machine Learning in Individual Claims Reserving*
 - Recent / upcoming talks: 29th International Congress on Insurance: Mathematics and Economics 2026 (Seoul), 1st ASTIN Bulletin Conference 2026 (ETH Zürich), 2nd Joint Colloquium of IAA Sections 2025 (São Paulo)
 
 ## Stack
 
-Python · Pandas · NumPy · Scikit-learn · tree-based methods (bagging, random forests, gradient boosting) · LaTeX · Git
+**Statistics & ML:** Python · R · Pandas · NumPy · Scikit-learn · tree-based methods (bagging, random forests, gradient boosting) · Mathematica · LaTeX · Git
+
+**AI engineering:** Claude Code · Claude API · MCP servers · multi-agent orchestration (Multica, Claude Code subagents and workflows) · agent skills and hooks
 
 ## Outside research
 
